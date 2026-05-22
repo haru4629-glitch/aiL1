@@ -1,0 +1,4 @@
+0 Recycle
+1 General
+2 Hazard
+3 Bio
